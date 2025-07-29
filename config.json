@@ -9,7 +9,7 @@
     "jable": {
       "api": "https://jable.tv/api.php/provide/vod",
       "name": "Jable",
-      "detail": "https://jable.tv/"
+      "detail": "https://jable.tv/hot/"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
